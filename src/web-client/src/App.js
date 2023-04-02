@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React by Duat, Happy sucsses
+          Học học nữa, học mãi
         </a>
       </header>
     </div>
